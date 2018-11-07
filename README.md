@@ -7,4 +7,4 @@
 
 ###  One more thing to be fixed due to the time limit, is the rating of picture and the picture could not keep in one column, which makes the layout looks a bit ugly. I will fix it later.
 
-## And the applicatoin I made goes here().
+## And the applicatoin I made goes here(https://vivianuol.github.io/GifTastic/).

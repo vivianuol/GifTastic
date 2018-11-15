@@ -1,7 +1,7 @@
 # GifTastic
 
 ###  you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. 
-###  my theme is fruitBusket. But you can simply search any funny gif animate picture you want.
+###  My theme is fruitBusket. But you can simply search any funny gif animate picture you want.
 
 ###  I used Giphy API and Ajax to retrieve data from Giphy website, and jQuery to generate the button and display the gif pictures.
 
